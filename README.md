@@ -1,2 +1,2 @@
 # quantum-studies
-Some studies around Quantum computing in python, for non-abstract concept visualization
+Some studies around Quantum Computing in python, for non-abstract concept visualization
